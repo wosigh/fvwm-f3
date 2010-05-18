@@ -1,0 +1,41 @@
+
+Current Setting:
+--------------
+Background: xsetroot -solid Black
+Start TaskBarGlobal
+No Buttons Bar
+Do not start DeskerPanelButtons
+Do not start MiniButtons
+Do not start FvwmButtons WinMakerAppButtons
+Do not start FvwmAnimate
+Do not start FvwmAuto
+Do not start FvwmBanner
+Do not start Sounds Effect
+Base Config: Not Used
+
+Setting-1:
+---------
+Background: xsetroot -solid Black
+ddToFunc StartFunction I TaskBarDesk
+ddToFunc StartFunction I FvwmButtons BarButtons
+Start FvwmButtons DeskerPanelButtons
+Do not start MiniButtons
+Do not start FvwmButtons WinMakerAppButtons
+Do not start FvwmAnimate
+Do not start FvwmAuto
+Do not start FvwmBanner
+Do not start Sounds Effect
+Base Config: Not Used
+
+Setting-2:
+---------
+Base Config: Not Used
+
+Setting-3:
+---------
+Base Config: Not Used
+
+Setting-4:
+---------
+Base Config: Not Used
+
